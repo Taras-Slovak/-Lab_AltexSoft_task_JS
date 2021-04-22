@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: beige;
+    font-size: 25px;
+}
+.wrapper {
+    width: max-content;
+    margin: 50px auto 0 auto;
+    border: 1px solid rgba(0,0,0, .2);
+    padding: 20px;
+}
+
+.list {
+    display: block;
+    width: max-content;
+    margin: 50px auto 0 auto;
+
+    
+    
+}
+
+p {
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: azure;
+}
+
+
+
+
